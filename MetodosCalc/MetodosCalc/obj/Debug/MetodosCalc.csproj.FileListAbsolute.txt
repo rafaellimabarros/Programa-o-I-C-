@@ -1,0 +1,7 @@
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\bin\Debug\MetodosCalc.exe.config
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\bin\Debug\MetodosCalc.exe
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\bin\Debug\MetodosCalc.pdb
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\obj\Debug\MetodosCalc.csproj.CoreCompileInputs.cache
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\obj\Debug\MetodosCalc.exe
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\obj\Debug\MetodosCalc.pdb
+C:\Users\Zero\source\repos\MetodosCalc\MetodosCalc\obj\Debug\MetodosCalc.csprojResolveAssemblyReference.cache

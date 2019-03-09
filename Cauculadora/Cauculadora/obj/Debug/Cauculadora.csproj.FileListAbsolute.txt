@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\bin\Debug\Cauculadora.exe.config
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\bin\Debug\Cauculadora.exe
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\bin\Debug\Cauculadora.pdb
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.exe
+C:\Users\aluno\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.pdb
+E:\Downloads\Cauculadora\Cauculadora\bin\Debug\Cauculadora.exe.config
+E:\Downloads\Cauculadora\Cauculadora\bin\Debug\Cauculadora.exe
+E:\Downloads\Cauculadora\Cauculadora\bin\Debug\Cauculadora.pdb
+E:\Downloads\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csprojResolveAssemblyReference.cache
+E:\Downloads\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csproj.CoreCompileInputs.cache
+E:\Downloads\Cauculadora\Cauculadora\obj\Debug\Cauculadora.exe
+E:\Downloads\Cauculadora\Cauculadora\obj\Debug\Cauculadora.pdb
