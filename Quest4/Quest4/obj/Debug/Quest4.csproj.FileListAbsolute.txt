@@ -1,0 +1,7 @@
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\bin\Debug\Quest4.exe.config
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\bin\Debug\Quest4.exe
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\bin\Debug\Quest4.pdb
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\obj\Debug\Quest4.csprojResolveAssemblyReference.cache
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\obj\Debug\Quest4.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\obj\Debug\Quest4.exe
+C:\Users\Zero\Desktop\3 semestre\Programação I\Programas\Quest4\Quest4\obj\Debug\Quest4.pdb
