@@ -1,0 +1,7 @@
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\bin\Debug\testejogodavelha.exe.config
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\bin\Debug\testejogodavelha.exe
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\bin\Debug\testejogodavelha.pdb
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\obj\Debug\testejogodavelha.csprojResolveAssemblyReference.cache
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\obj\Debug\testejogodavelha.csproj.CoreCompileInputs.cache
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\obj\Debug\testejogodavelha.exe
+C:\Users\Zero\source\repos\testejogodavelha\testejogodavelha\obj\Debug\testejogodavelha.pdb
